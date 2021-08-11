@@ -22,9 +22,9 @@ Advaith | Quelix | 2
 <br/>
 
 # HackDSC - Decode-X - VIT Bhopal - May 2021
-<img src="https://github.com/Dart9000/Dart9000/blob/main/Hackdsc/winner.jpg?raw=true" width="50%">
+<img src="https://github.com/Dart9000/Dart9000/blob/main/Hackdsc/winner.jpg?raw=true" width="70%">
 
 <br/>
 
 # Advaith|Yeah - Quelix - DSCE ACM-W - July 2021
-<img src="https://github.com/Dart9000/Dart9000/blob/main/Hackdsc/winner.jpg?raw=true" width="50%">
+<img src="https://github.com/Dart9000/Dart9000/blob/main/Hackdsc/winner.jpg?raw=true" width="70%">
