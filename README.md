@@ -18,3 +18,13 @@ WCE hackathon | Quelix | 0
 Hacky'b MLH | Quelix | 0
 Hack-Table | Quelix | 0
 Advaith | Quelix | 2
+
+<br/>
+
+# HackDSC - Decode-X - VIT Bhopal - May 2021
+<img src="https://github.com/Dart9000/Dart9000/blob/main/Hackdsc/winner.jpg?raw=true" width="60%">
+
+<br/>
+
+# Advaith|Yeah - Quelix - DSCE ACM-W - July 2021
+<img src="https://github.com/Dart9000/Dart9000/blob/main/Hackdsc/winner.jpg?raw=true" width="60%">
