@@ -6,18 +6,18 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dart9000&repo=TrueMed&show_owner=true&theme=dark)](https://github.com/Dart9000/TrueMed)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dart9000&repo=OTP-flask-API&show_owner=true&theme=dark)](https://github.com/Dart9000/OTP-flask-API)
 
-Hackathon | Project | Result
---- | --- | --- 
-HooHacks | TumorCNN | 0
-Sociothon | TrueMed | 0
-Frosthack | Zest.io | 0
-HackDSC | Decode-x | 3
-HackVIT | Decode-x | 0
-Covihack | Decode-x | 0
-WCE hackathon | Quelix | 0
-Hacky'b MLH | Quelix | 0
-Hack-Table | Quelix | 0
-Advaith | Quelix | 2
+Hackathon | Result
+--- | --- 
+HooHacks | 0
+Sociothon | 0
+Frosthack | 0
+HackDSC | 3
+HackVIT | 0
+Covihack | 0
+WCE hackathon | 0
+Hacky'b MLH | 0
+Hack-Table | 0
+Advaith | 2
 
 <br/>
 
