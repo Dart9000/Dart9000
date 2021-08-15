@@ -5,6 +5,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dart9000&repo=TumorCNN&show_owner=true&theme=dark)](https://github.com/Dart9000/TumorCNN)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dart9000&repo=TrueMed&show_owner=true&theme=dark)](https://github.com/Dart9000/TrueMed)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dart9000&repo=OTP-flask-API&show_owner=true&theme=dark)](https://github.com/Dart9000/OTP-flask-API)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dart9000&repo=OpenX&show_owner=true&theme=dark)](https://github.com/Dart9000/OpenX)
 
 Hackathon | Result
 --- | --- 
